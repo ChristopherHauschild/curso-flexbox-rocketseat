@@ -3,8 +3,8 @@
 </div> <br />
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=CSS&message=&color=informational&style=for-the-badge&logo=CSS3"/>
-  <img src="https://img.shields.io/static/v1?label=HTML&message=&color=important&style=for-the-badge&logo=HTML5"/>
+  <img src="https://img.shields.io/static/v1?label=&message=CSS&color=informational&style=for-the-badge&logo=CSS3"/>
+  <img src="https://img.shields.io/static/v1?label=&message=HTML&color=important&style=for-the-badge&logo=HTML5"/>
 </div>
 
 # <p align="center">Curso Flexbox</p>
