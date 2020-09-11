@@ -1,0 +1,8 @@
+renderizar fonts mais suavemente:
+  
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+
+alinhar textos na mesma linha:
+
+  align-items: baseline;

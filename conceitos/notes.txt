@@ -1,0 +1,32 @@
+align-items: 
+
+  alinha items no eixo contrário
+  > se flex-direction row, alinha Y (vertical)
+  > se flex-direction column, alinha X (horizontal)
+
+justify-content:
+
+  alinha items no eixo em paralelo
+  > se flex-direction row, alinha X (horizontal)
+  > se flex-direction column, alinha Y (vertical)
+
+align-content:
+
+  mesmas propriedades do justify-content no eixo contrário
+
+flex-grow:
+
+  elemento aceita ser aumentado para ocupar container pai
+
+flex-shrink:
+
+  elemento aceita ou não ser diminuido para ocupar container pai
+
+flex: 1 0;
+
+  1 > grow, 0 > shrink
+
+order:
+
+  define a ordenação dos elementos
+  para layouts que precisam se adaptar conforme as medidas da tela
