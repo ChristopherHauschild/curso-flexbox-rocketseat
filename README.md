@@ -17,7 +17,7 @@ O curso é focado nas principais propriedades do modelo de layout para web Flexb
 
 <br />
 
-<img src="" alt="UI Clone Twitter" />
+<img src="https://github.com/ChristopherHauschild/curso-flexbox-rocketseat/blob/master/UI_clone_tt.png?raw=true" alt="UI Clone Twitter" />
 
 <hr>
 
